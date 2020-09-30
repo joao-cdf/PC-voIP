@@ -5,3 +5,7 @@
 
 # Development of a voIP server based on the framework Asterisk. 
 ## The server is deployed in a docker container to be accessed by a voIP client.
+### voIP clients:
+- microsip -> https://www.microsip.org/
+- linphone -> https://www.linphone.org/
+
