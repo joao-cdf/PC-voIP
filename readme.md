@@ -1,6 +1,7 @@
 # Protocolos de Comunicação
 ## m10642 - João Ferreira
 ## m10624 - Douglas Amante
+## m10832 - Jaime Oliveira
 ## Docente: Nuno M. Garcia
 
 
