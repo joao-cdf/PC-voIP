@@ -1,0 +1,9 @@
+https://www.nextiva.com/blog/voip-architecture-network-diagrams.html
+
+https://www.pluralsight.com/blog/it-ops/voip-architecture-voip-call-components
+
+https://www.asterisk.org/
+
+https://www.microsip.org/
+
+https://helpdesk.voyager.co.nz/index.php?/Knowledgebase/Article/View/253/25/setting-up-voice-voip-on-the-microsip-softphone
