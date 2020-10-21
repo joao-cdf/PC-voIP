@@ -1,6 +1,6 @@
 # Protocolos de Comunicação
 
-#### Authores: Douglas Amante(m10624) & Jaime Oliveira(m10832) & João Ferreira (m10624)
+#### Authores: Douglas Amante(m10624) & Jaime Oliveira(m10832) & João Ferreira (10642)
 #### Docente: Nuno M. Garcia
 
 # Development of a voIP server based on the framework Asterisk. 
