@@ -8,13 +8,16 @@ RUN apt-get -y update \
         libnewt-dev libsqlite3-dev uuid-dev libedit-dev \
         libjansson-dev libxml2-dev
 
-COPY /asterisk /asterisk
-WORKDIR /asterisk
+RUN mkdir res
+COPY /res/asterisk.tgz /res
+WORKDIR /res
+RUN tar -zxvf asterisk.tgz
+WORKDIR /res/asterisk-certified-16.8-cert3
 RUN ./configure 
 RUN make install
 RUN make samples
 
-RUN rm -r /asterisk
+RUN rm -r /res
 
 RUN useradd -d /var/lib/asterisk asterisk
 
