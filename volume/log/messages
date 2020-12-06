@@ -1,0 +1,6 @@
+[Dec  6 14:00:57] Asterisk certified/16.8-cert3 built by root @ buildkitsandbox on a x86_64 running Linux on 2020-12-06 13:01:42 UTC
+[Dec  6 14:00:57] NOTICE[1] loader.c: 248 modules will be loaded.
+[Dec  6 14:00:57] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Dec  6 14:00:58] ERROR[1] ari/config.c: No configured users for ARI
+[Dec  6 14:00:58] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Dec  6 14:00:58] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
